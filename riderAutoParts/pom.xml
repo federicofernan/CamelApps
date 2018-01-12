@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.laureate</groupId>
-  <artifactId>processUltiproTermination</artifactId>
+  <artifactId>riderAutoParts</artifactId>
   <packaging>jar</packaging>
   <version>0.0.1</version>
 
@@ -89,7 +89,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>1.6.0</version>
         <configuration>
-          <mainClass>com.laureate.processUltiproTermination.MainApp</mainClass>
+          <mainClass>com.laureate.riderAutoParts.MainApp</mainClass>
           <includePluginDependencies>false</includePluginDependencies>
         </configuration>
       </plugin>
