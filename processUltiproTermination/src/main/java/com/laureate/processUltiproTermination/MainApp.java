@@ -20,7 +20,7 @@ public class MainApp {
         	}
         });
         context.start();
-        Thread.sleep(10000);
+        Thread.sleep(1000);
         context.stop();
     }
 
